@@ -1,0 +1,1 @@
+The placebo effect is a phenomenon in which some people experience a benefit after the administration of an inactive lookalike substance or treatment. This substance, or placebo, has no known medical effect and can be in the form of a pill (sugar pill), injection (saline solution), or consumable liquid.
