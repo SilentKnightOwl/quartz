@@ -2,6 +2,12 @@
 title: 🪴 Quartz 3.
 enableToc: false
 ---
+# Map of Content
+[[Test 1 Placebo Magick]]
+[[Placebo Effect]]
+
+
+
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
